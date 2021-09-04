@@ -1,0 +1,16 @@
+
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DRSchlaubi/mcserv/releases/download/v0.0.1/mcserv-0.0.1.msi",
+            "bin": [
+                "mcserv.exe"
+            ],
+            "hash": "36affeba2bffc2dd132504aa65ca094fd2e60840751124b600fb335b503aa911"
+        }
+    },
+    "homepage": "https://mcserv-how",
+    "license": "GPL-3",
+    "description": "McServ"
+}
