@@ -5,7 +5,7 @@
         "64bit": {
             "url": "https://github.com/DRSchlaubi/mcserv/releases/download/v0.0.1/mcserv-0.0.1.msi",
             "bin": [
-                "mcserv.exe"
+                "McServ\mcserv.exe"
             ],
             "hash": "36affeba2bffc2dd132504aa65ca094fd2e60840751124b600fb335b503aa911"
         }
